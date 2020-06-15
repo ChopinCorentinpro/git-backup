@@ -1,0 +1,81 @@
+Bonjour et bienvenue !
+
+Voici une activité individuelle qui porte exclusivement sur les langages HTML5 et CSS3.
+Le but est de vous familiariser avec le responsive design et l'animation.
+
+Lisez d'abord tout le document puis suivez les étapes dans l'ordre indiqué.
+Amusez-vous bien ^^
+
+
+
+===> Vous avez pour objectif:
+    - d'afficher certaines lettres de vos nom/prénom en fonction de la taille d'affichage
+    - de créer et d'afficher votre propre logo responsive en 3 versions
+    - d'afficher votre logo dans l'onglet du navigateur
+    - de créer 2 animations différentes qui se déclenchent au survol de la souris
+
+
+
+===> Contraintes:
+    - seul les langages HTML5 et CSS3 seront utilisés
+
+    - le fichier style.css ne doit pas être modifié sauf indications
+    - le fichier index.html ne doit pas être modifié sauf indications
+    - vous devez adapter le contenu du h1 avec vos nom/prénom sans toucher aux balises
+    - vous devez trouver le moyen de placer 2 espaces entre vos nom/prénom
+
+    - vous devez utiliser les:
+        * flexbox pour le positionnement
+        * @keyframes pour les animations
+        * media queries pour le responsive design
+
+    - les tailles d'affichage correspondent à ces 3 types d'appareils (portrait et paysage):
+        * "iPhone 6/7/8 iOS 11" (mobile)
+        * "iPad" (tablette)
+        * "720p HD Television" (PC)
+
+    - les 2 animations doivent uniquement apparaître dans les div de la section
+    - les div de la section doivent être fixes (300x300px) sur les 3 types d'appareils
+    - les div de la section doivent toujours avoir un margin de 15px
+
+
+
+===> 1
+
+Prenez connaissance du dossier img.
+Firefox est le navigateur utilisé mais vous pouvez utiliser celui de votre choix.
+
+
+
+===> 2
+
+Initialisez un nouveau dépôt privé sur GitHub et nommez le selon les mêmes consignes que les précédentes activités.
+
+Créer, en local, un nouveau dossier portant le même nom que votre dépôt et copiez:
+    - le fichier index.html (tel quel)
+    - le dossier css avec le fichier style.css (tel quel)
+et faites votre 1er commit en l'état.
+
+Profitez-en pour m'inviter en tant que collaborateur ;-)
+
+
+
+===> 3
+
+Une fois votre activité terminée, faites un dernier commit "completed", et prévenez moi.
+
+
+
+===> recommandations
+    - faites de l'indentation votre priorité
+    - prenez l'habitude de coder/commenter avec du vocabulaire anglais
+    - les contenus doivent rester en français pour l'instant
+    - adaptez la taille de vos images/photos à la taille des balises
+
+
+
+Restant à votre disposition.
+Merci, bon code ;)
+
+Nicolas
+[votre Formateur dévoué -_-]
